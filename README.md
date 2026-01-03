@@ -21,18 +21,23 @@ Streamlit and Python were used to create an easy-to-use inventory and order mana
 ---
 
 3. Project Organization
+```
   ├── app.py
   ├── users.xlsx
   ├── inventory.xlsx
   ├── orders.xlsx
   ├── order_details.xlsx
   ├── admin_access.xlsx
-  ├── assets/
+  ├── images/
   │ └── Logo.jpg
-    └── Product_Imgess.jpg
+    └── coke.jpg
+    └── diet_coke.jpg
+    └── redbull.jpg
+    └── sprite.jpg
+    └── moster.jpg
   ├── requirements.txt
   └── README.md
-   
+   ```
 ---
 
 4. How to Run the Project
